@@ -1,5 +1,7 @@
 <?php
 
+// Initial commit to test Travis CI job
+
 namespace FR3D\XmlDSigTest\Adapter;
 
 use FR3D\XmlDSig\Adapter\XmlseclibsAdapter;
